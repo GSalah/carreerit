@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://51.20.125.223:8081/repository/maven-releases/</url>
+            <url>http://51.20.125.223:8081/repository/SAMPLE_RELEASE/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://51.20.125.223:8081/repository/Fristjenkin_Nexus_Snapshot/</url>
+            <url>http://51.20.125.223:8081/repository/SAMPLE_SNAPSHOT/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
